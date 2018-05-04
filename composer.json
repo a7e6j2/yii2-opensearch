@@ -19,7 +19,7 @@
     
     "autoload": {
         "psr-4": {
-            "a7e6j2\\yii2-opensearch\\": "src"
+            "a7e6j2\\OpenSearch\\": "src"
         }
     }
 }
