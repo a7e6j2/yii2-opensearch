@@ -1,0 +1,26 @@
+{
+    "name": "a7e6j2/yii2-opensearch",
+    "description": "Aliyun OpenSearch for Yii2, Developed by Joey Wong",
+    "type": "library",
+    "license": "MIT2.0",
+    "authors": [
+        {
+            "name": "Joey Wong",
+            "email": "joey@joey.cn"
+        }
+    ],
+    
+    "minimum-stability": "stable",
+    
+    "require": {
+        "php": ">=5.4",
+        "yiisoft/yii2": "*",
+        "yiisoft/yii2-httpclient": "^2.0"
+    },
+    
+    "autoload": {
+        "psr-4": {
+            "a7e6j2\\yii2-opensearch\\": "src"
+        }
+    }
+}
